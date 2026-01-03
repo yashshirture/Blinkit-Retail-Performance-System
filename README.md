@@ -28,5 +28,5 @@ This Power BI project analyzes Blinkit retail sales and outlet performance to un
 
 ## 👤 Author
 Yash Shirture  
-Data Analyst
+Data Analyst | Excel • SQL • Power BI
 
