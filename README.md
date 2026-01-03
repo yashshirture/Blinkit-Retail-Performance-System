@@ -3,13 +3,12 @@
 ## 📌 Project Overview
 This Power BI project analyzes Blinkit retail sales and outlet performance to understand revenue drivers, outlet efficiency, and customer behavior.
 
-## 🔍 Key Insights
-- Supermarket Type 1 contributes ~65% of total revenue, making it the primary sales driver.
-- Fruits & Vegetables and Snack Foods together account for ~30% of total sales, indicating strong category concentration.
-- Medium-sized outlets generate the highest sales share (~42%), outperforming both small and large outlets.
-- Sales performance is relatively consistent across location tiers, while volume differences are driven by outlet scale.
-- Average customer ratings remain stable (~3.9–4.0) across outlet types, suggesting satisfaction is not the limiting factor.
-
+## 🛒 Revenue Drivers & Outlet Performance Intelligence
+- Sales revenue is highly concentrated in a small number of item categories, with Fruits & Vegetables and Snack Foods contributing a significant share of total sales.
+- Supermarket Type 1 outlets generate the majority of revenue, indicating higher operational efficiency and stronger customer demand.
+- Medium-sized outlets outperform small and large outlets in total sales contribution, highlighting optimal store sizing.
+- Product mix analysis shows a higher preference for regular-fat items compared to low-fat alternatives.
+- Customer ratings remain consistent across outlet types and locations, suggesting sales differences are driven by scale and assortment rather than satisfaction.
 
 ## 🛠 Tools Used
 - Power BI – Interactive dashboards & DAX measures
@@ -20,12 +19,12 @@ This Power BI project analyzes Blinkit retail sales and outlet performance to un
 ## 📷 Dashboard Preview
 ![Dashboard](dashboard.png)
 
-## 📈 Business Impact
-- Enables identification of high-performing outlet formats for expansion planning.
-- Supports category-level optimization by highlighting revenue-heavy product groups.
-- Helps retail teams focus on medium-sized outlets for maximum return on investment.
-- Improves assortment and inventory planning using outlet size and location insights.
-- Assists leadership in data-driven performance benchmarking across outlets.
+## 📈 Retail Optimization & Decision Support Value
+- Enables management to identify high-performing outlet types and prioritize expansion strategies.
+- Supports assortment and inventory optimization by highlighting top revenue-generating categories.
+- Helps optimize outlet sizing decisions based on sales efficiency.
+- Provides actionable insights for improving revenue planning and category-level promotions.
+- Strengthens data-driven decision-making through interactive Power BI dashboards.
 
 ## 👤 Author
 Yash Shirture  
