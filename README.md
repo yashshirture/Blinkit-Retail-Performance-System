@@ -1,5 +1,10 @@
 # 🛒 Blinkit Sales & Outlet Performance Dashboard (Power BI)
 
+## 📊 Dashboard Preview
+
+![BlinkIt Dashboard](./dashboard.png)
+
+
 ## 📌 Project Overview
 This Power BI project analyzes Blinkit retail sales and outlet performance to understand revenue drivers, outlet efficiency, and customer behavior.
 
